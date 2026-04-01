@@ -80,10 +80,10 @@ Tools      → Git • VS Code • tmux
     <img src="https://img.shields.io/badge/Telegram-@swllette-9d00ff?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
   <a href="https://discord.com/users/fufuyaunn">
-    <img src="https://img.shields.io/badge/Discord-fufuyaunn-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/Discord-_sweetie.vani-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
   <a href="https://karenhoyoshi.asia">
-    <img src="https://img.shields.io/badge/Website-karenhoyoshi.asia-FF6B9D?style=for-the-badge&logo=safari&logoColor=white">
+    <img src="https://img.shields.io/badge/Website-pioxrzz.sbs-FF6B9D?style=for-the-badge&logo=safari&logoColor=white">
   </a>
 </p>
 

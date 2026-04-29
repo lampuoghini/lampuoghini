@@ -13,7 +13,7 @@
 *they/them · Ho Chi Minh City, VN*
 
 [![Discord](https://img.shields.io/badge/Discord-pioznxx.sbs-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.pioznxx.sbs)
-[![Website](https://img.shields.io/badge/Website-pioznxx.sbs-ff6b9d?style=flat-square&logo=firefox&logoColor=white)](https://pioznxx.sbs)
+[![Website](https://img.shields.io/badge/Website-pioznxx.sbs-ff6b9d?style=flat-square&logo=firefox&logoColor=white)](https://piozrxx.sbs)
 [![Bot](https://img.shields.io/badge/Bot-bot.miuonu.xyz-00d2ff?style=flat-square&logo=robot-framework&logoColor=white)](https://bot.miuonu.xyz)
 
 </div>
@@ -68,7 +68,7 @@ currently:  building stuff and vibing 🎵
 ### 📬 reach me
 
 - **email:** mewzayyyvieb@gmail.com
-- **discord server:** [discord.pioznxx.sbs](https://discord.pioznxx.sbs)
+- **discord server:** [discord.pioznxx.sbs](https://discord.piozrxx.sbs)
 - **bot:** [bot.miuonu.xyz](https://bot.miuonu.xyz)
 - **shop/auth:** [vanzzzi.mysellauth.com](https://vanzzzi.mysellauth.com)
 

@@ -12,8 +12,8 @@
 ### hey, i'm **Wani** 🐱✨
 *they/them · Ho Chi Minh City, VN*
 
-[![Discord](https://img.shields.io/badge/Discord-piozrxx.sbs-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.pioznxx.sbs)
-[![Website](https://img.shields.io/badge/Website-piozrxx.sbs-ff6b9d?style=flat-square&logo=firefox&logoColor=white)](https://piozrxx.sbs)
+[![Discord](https://img.shields.io/badge/Discord-pioznxx.sbs-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.pioznxx.sbs)
+[![Website](https://img.shields.io/badge/Website-pioznxx.sbs-ff6b9d?style=flat-square&logo=firefox&logoColor=white)](https://pioznxx.sbs)
 [![Bot](https://img.shields.io/badge/Bot-bot.miuonu.xyz-00d2ff?style=flat-square&logo=robot-framework&logoColor=white)](https://bot.miuonu.xyz)
 
 </div>
@@ -36,6 +36,7 @@ currently:  building stuff and vibing 🎵
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Discord.py](https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -67,16 +68,26 @@ currently:  building stuff and vibing 🎵
 
 ### 📬 reach me
 
-- **email:** mewzayyyvieb@gmail.com
-- **discord server:** [discord.piozrxx.sbs](https://discord.piozrxx.sbs)
-- **bot:** [bot.miuonu.xyz](https://bot.miuonu.xyz)
-- **shop/auth:** [vanzzzi.mysellauth.com](https://vanzzzi.mysellauth.com)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-mewzayyyvieb%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mewzayyyvieb@gmail.com)
+[![Discord Server](https://img.shields.io/badge/Discord_Server-discord.pioznxx.sbs-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.pioznxx.sbs)
+[![Bot](https://img.shields.io/badge/Bot-bot.miuonu.xyz-00d2ff?style=for-the-badge&logo=robot-framework&logoColor=white)](https://bot.miuonu.xyz)
+[![Shop](https://img.shields.io/badge/Shop-vanzzzi.mysellauth.com-ff6b9d?style=for-the-badge&logo=shopify&logoColor=white)](https://vanzzzi.mysellauth.com)
+
+</div>
 
 ---
 
 <div align="center">
 
 *thanks for stopping by 🐱💕*
+
+<br/>
+
+![snake animation](https://github.com/lampuoghini/lampuoghini/blob/output/github-contribution-grid-snake-dark.svg)
+
+<br/>
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=lampuoghini.lampuoghini)
 

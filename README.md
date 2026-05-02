@@ -12,8 +12,8 @@
 ### hey, i'm **Wani** 🐱✨
 *they/them · Ho Chi Minh City, VN*
 
-[![Discord](https://img.shields.io/badge/Discord-pioznxx.sbs-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.pioznxx.sbs)
-[![Website](https://img.shields.io/badge/Website-pioznxx.sbs-ff6b9d?style=flat-square&logo=firefox&logoColor=white)](https://pioznxx.sbs)
+[![Discord](https://img.shields.io/badge/Discord-piozrxx.sbs-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.piozrxx.sbs)
+[![Website](https://img.shields.io/badge/Website-piozrxx.sbs-ff6b9d?style=flat-square&logo=firefox&logoColor=white)](https://piozrxx.sbs)
 [![Bot](https://img.shields.io/badge/Bot-bot.miuonu.xyz-00d2ff?style=flat-square&logo=robot-framework&logoColor=white)](https://bot.miuonu.xyz)
 
 </div>
@@ -71,9 +71,9 @@ currently:  building stuff and vibing 🎵
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-mewzayyyvieb%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mewzayyyvieb@gmail.com)
-[![Discord Server](https://img.shields.io/badge/Discord_Server-discord.pioznxx.sbs-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.pioznxx.sbs)
+[![Discord Server](https://img.shields.io/badge/Discord_Server-discord.piozrxx.sbs-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.piozrxx.sbs)
 [![Bot](https://img.shields.io/badge/Bot-bot.miuonu.xyz-00d2ff?style=for-the-badge&logo=robot-framework&logoColor=white)](https://bot.miuonu.xyz)
-[![Shop](https://img.shields.io/badge/Shop-vanzzzi.mysellauth.com-ff6b9d?style=for-the-badge&logo=shopify&logoColor=white)](https://vanzzzi.mysellauth.com)
+[![Shop](https://img.shields.io/badge/Shop-wanicream.mysellauth.com-ff6b9d?style=for-the-badge&logo=shopify&logoColor=white)](https://wanicream.mysellauth.com)
 
 </div>
 
